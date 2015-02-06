@@ -1,2 +1,3 @@
 # Coursera1
-Training repo for Data Science tookbox
+Training repo for Data Science toolbox
+Tutorial
